@@ -1,4 +1,4 @@
 package.json merge=ours
 package-lock.json merge=ours
 
-test.txt merge=ours
+test.txt merge=their
